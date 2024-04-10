@@ -24,7 +24,7 @@ Atualmente, estou estudando programação, me especializando em tecnologias web 
 - [Projeto 2](link_do_projeto_2): Breve descrição do projeto.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Viniciusfernandes2&show_icons=true&theme=radical)
 
 ## Contato
 - LinkedIn: [Seu Nome](link_para_o_seu_perfil_do_LinkedIn)

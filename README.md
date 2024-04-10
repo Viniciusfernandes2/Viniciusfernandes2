@@ -1,8 +1,8 @@
 ### Olá!! Eu sou Vinicius Fernandes 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
-[![GitHub](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)](https://github.com/)
 
 
 

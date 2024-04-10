@@ -48,7 +48,7 @@ Atualmente, estou estudando programação, me especializando em tecnologias web 
 ## Contato
   <div style="display: online_block"><br>
   <a href="https://www.linkedin.com/in/vinicius-fernandes-6088a323b/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-   <a href="vinicius.fernandes11.vf@gmail.com"><img align="center" alt="G-mail" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"></a>
+   <a href="mailto:vinicius.fernandes11.vf@gmail.com"><img align="center" alt="G-mail" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"></a>
      
   </div>
   

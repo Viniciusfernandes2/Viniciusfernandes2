@@ -30,14 +30,12 @@ Atualmente, estou estudando programação, me especializando em tecnologias web 
 
 ## Vamos Conectar!
 Fique à vontade para me contatar para colaborações, oportunidades de emprego ou apenas para bater um papo sobre tecnologia e programação. Vamos nos conectar!
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>

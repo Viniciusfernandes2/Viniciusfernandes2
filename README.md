@@ -33,7 +33,11 @@ Atualmente, estou estudando programação, me especializando em tecnologias web 
      
     </div>
   
-- **Outras Ferramentas:** Git, VSCode, Figma
+- **Outras Ferramentas:**
+    <div style="display: inline_block"><br>
+    <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+     
+    </div>
 
 ## Projetos Destacados
 - [Projeto 1](link_do_projeto_1): Breve descrição do projeto.

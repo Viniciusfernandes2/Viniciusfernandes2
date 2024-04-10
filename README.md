@@ -1,9 +1,8 @@
 ### Olá!! Eu sou Vinicius Fernandes 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciusfernandes2)](https://github.com/anuraghazra/github-readme-stats)
-<!--
 **Viniciusfernandes2/Viniciusfernandes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

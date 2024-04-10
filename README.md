@@ -1,4 +1,4 @@
-<div  align="center">
+
  
 ### Olá!! Eu sou Vinicius Fernandes 👋
 

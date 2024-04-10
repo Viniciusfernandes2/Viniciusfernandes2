@@ -27,7 +27,12 @@ Atualmente, estou estudando programação, me especializando em tecnologias web 
      
     </div>
   
-- **Banco de Dados:** MongoDB, MySQL
+- **Banco de Dados:**
+    <div style="display: inline_block"><br>
+    <img align="center" alt="Posrgresqls" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+     
+    </div>
+  
 - **Outras Ferramentas:** Git, VSCode, Figma
 
 ## Projetos Destacados

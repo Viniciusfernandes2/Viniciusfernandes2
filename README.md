@@ -1,6 +1,7 @@
 ### Olá!! Eu sou Vinicius Fernandes 👋
 
-![Estatísticas do GitHub de Viniciusfernandes2](https://github-readme-stats.vercel.app/api?username=Viniciusfernandes2&show_icons=true&theme=gradient&bg_color=90,4B0082,36037A,1E044F,000080,120A8F,483D8B&title_color=FFD700&text_color=FFFFFF&icon_color=00FFFF&hide_border=true)
+![Estatísticas do GitHub de Viniciusfernandes2](https://github-readme-stats.vercel.app/api?username=Viniciusfernandes2&show_icons=true&theme=gradient&bg_color=90,1E044F,000080,4169E1,B0E0E6,ADD8E6,F0FFFF&title_color=FFD700&text_color=FFFFFF&icon_color=00FFFF&hide_border=true)
+
 
 
 

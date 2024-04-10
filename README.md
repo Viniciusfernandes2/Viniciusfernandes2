@@ -1,5 +1,5 @@
 ### Olá!! Eu sou Vinicius Fernandes 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciusfernandes2&show_icons=true&theme=gradiente&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciusfernandes2&show_icons=true&theme=gradient&rank_icon=github)
 
 
 

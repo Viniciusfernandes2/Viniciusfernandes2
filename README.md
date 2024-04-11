@@ -10,7 +10,6 @@ Atualmente, estou estudando programação, me especializando em tecnologias web 
 
 - 🎓 Estudante de Programação
 - 💻 Desenvolvedor Web
-- 🚀 Aprendendo e Crescendo a Cada Dia
 
 ## Habilidades
 - **Linguagens:**

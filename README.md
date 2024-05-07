@@ -39,10 +39,6 @@ Atualmente, estou estudando programação, me especializando em tecnologias web 
     <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
     </div>
 
-## Projetos Destacados
-- [Projeto 1](link_do_projeto_1): Breve descrição do projeto.
-- [Projeto 2](link_do_projeto_2): Breve descrição do projeto.
-
 
 ## Contato
   <div style="display: online_block"><br>
